@@ -1,0 +1,11 @@
+(function() {var implementors = {};
+implementors["chalk"] = [{text:"impl <a class=\"trait\" href=\"chalk_ir/fold/trait.Fold.html\" title=\"trait chalk_ir::fold::Fold\">Fold</a> for <a class=\"enum\" href=\"chalk/rust_ir/enum.InlineBound.html\" title=\"enum chalk::rust_ir::InlineBound\">InlineBound</a>",synthetic:false,types:["chalk::rust_ir::InlineBound"]},{text:"impl <a class=\"trait\" href=\"chalk_ir/fold/trait.Fold.html\" title=\"trait chalk_ir::fold::Fold\">Fold</a> for <a class=\"struct\" href=\"chalk/rust_ir/struct.TraitBound.html\" title=\"struct chalk::rust_ir::TraitBound\">TraitBound</a>",synthetic:false,types:["chalk::rust_ir::TraitBound"]},{text:"impl <a class=\"trait\" href=\"chalk_ir/fold/trait.Fold.html\" title=\"trait chalk_ir::fold::Fold\">Fold</a> for <a class=\"struct\" href=\"chalk/rust_ir/struct.ProjectionEqBound.html\" title=\"struct chalk::rust_ir::ProjectionEqBound\">ProjectionEqBound</a>",synthetic:false,types:["chalk::rust_ir::ProjectionEqBound"]},{text:"impl <a class=\"trait\" href=\"chalk_ir/fold/trait.Fold.html\" title=\"trait chalk_ir::fold::Fold\">Fold</a> for <a class=\"struct\" href=\"chalk/rust_ir/struct.AssociatedTyValue.html\" title=\"struct chalk::rust_ir::AssociatedTyValue\">AssociatedTyValue</a>",synthetic:false,types:["chalk::rust_ir::AssociatedTyValue"]},{text:"impl <a class=\"trait\" href=\"chalk_ir/fold/trait.Fold.html\" title=\"trait chalk_ir::fold::Fold\">Fold</a> for <a class=\"struct\" href=\"chalk/rust_ir/struct.AssociatedTyValueBound.html\" title=\"struct chalk::rust_ir::AssociatedTyValueBound\">AssociatedTyValueBound</a>",synthetic:false,types:["chalk::rust_ir::AssociatedTyValueBound"]},{text:"impl <a class=\"trait\" href=\"chalk_ir/fold/trait.Fold.html\" title=\"trait chalk_ir::fold::Fold\">Fold</a> for <a class=\"enum\" href=\"chalk/rust_ir/enum.PolarizedTraitRef.html\" title=\"enum chalk::rust_ir::PolarizedTraitRef\">PolarizedTraitRef</a>",synthetic:false,types:["chalk::rust_ir::PolarizedTraitRef"]},];
+implementors["chalk_ir"] = [];
+
+            if (window.register_implementors) {
+                window.register_implementors(implementors);
+            } else {
+                window.pending_implementors = implementors;
+            }
+        
+})()
